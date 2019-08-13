@@ -39,7 +39,7 @@ body {
 font-family:ubuntu mono;
 font-size:17px;
 color:#000Fff;
-background-color:#97FF00;
+background-color:#FFFFFF;
 }
 </style>
 </head>
